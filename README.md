@@ -4,3 +4,4 @@ It is an endless runner game. As they run, players must navigate various obstacl
 
 Wanna have the depressed old man have some fun?
 
+<img width="907" alt="image" src="https://github.com/NupurItIs/The-Tarapur-Runner-Game/assets/105906058/62e0ee29-eb3b-4b20-8043-1e42ec2d22e3">
