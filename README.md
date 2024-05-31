@@ -4,7 +4,9 @@ As they run, players must navigate various obstacles, such as rocks, and other c
 The objective is to run as far as possible without bumping on stones, trees and logs.
 
 
-
+## Tech
+- Unity
+- C#
 
 
 Wanna have the depressed old man have some fun?
@@ -46,4 +48,67 @@ Here's how it looks on unity
 
 
 <img width="1440" alt="image" src="https://github.com/NupurItIs/The-Tarapur-Runner-Game/assets/105906058/222a5504-c63b-4c86-8e4d-5f16a45989b8">
+
+
+
+
+
+## Appendix
+
+- For c# files to run 
+
+1. Open new terminal 
+
+2. Install homebrew
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+```
+brew install --cask dotnet-sdk
+```
+
+```
+dotnet --version
+```
+
+
+3. If there are issues  
+```
+brew cleanup
+```
+```
+brew uninstall --cask dotnet-sdk
+```
+```
+brew install --cask dotnet-sdk
+
+```
+
+
+
+- CHARACTER
+
+https://www.mixamo.com/#/?page=1&query=&type=Character
+
+The Boss
+
+Animations
+
+- Unity asset store
+
+https://assetstore.unity.com/packages/3d/environments/landscapes/lowpoly-environment-pack-99479
+
+
+
+## Contributing
+
+Contributions are always welcome!
+
+
+## Authors
+
+- [@NupurItIs](https://www.github.com/NupurItIs)
+
+- [@Tashbhilare](https://www.github.com/Tashbhilare)
+
 
